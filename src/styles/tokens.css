@@ -1,0 +1,35 @@
+:root {
+  --black: #181414;
+  --white: #f6f1f1;
+
+  --red-100: #fdd4d4;
+  --red-200: #faa9a9;
+  --red-300: #f87e7d;
+  --red-400: #f55352;
+  --red-500: #f32827;
+  --red-600: #c2201f;
+  --red-700: #921817;
+  --red-800: #611010;
+  --red-900: #310808;
+  
+  --blue-100: #d5e5fb;
+  --blue-200: #abccf7;
+  --blue-300: #81b2f2;
+  --blue-400: #5799ee;
+  --blue-500: #2d7fea;
+  --blue-600: #2466bb;
+  --blue-700: #1b4c8c;
+  --blue-800: #12335e;
+  --blue-900: #09192f;
+
+  
+  --green-100: #d5fbf6;
+  --green-200: #acf7ed;
+  --green-300: #82f3e4;
+  --green-400: #59efdb;
+  --green-500: #2febd2;
+  --green-600: #26bca8;
+  --green-700: #1c8d7e;
+  --green-800: #135e54;
+  --green-900: #092f2a;
+}
