@@ -41,10 +41,10 @@ body::before {
 
 .border {
   width: 100%;
-  height: 4px;
+  height: 0.5px;
   margin: 0;
   padding: 0;
-  background: var(--red-800);
+  background: var(--red-400);
 }
 
 a {
