@@ -1,0 +1,20 @@
+[
+  {
+    "id": "csm-61824",
+    "name": "하원길",
+    "age": 32,
+    "photo": "https://images.pexels.com/photos/914472/pexels-photo-914472.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+  },
+  {
+    "id": "csm-80176",
+    "name": "하민아",
+    "age": 25,
+    "photo": "https://images.pexels.com/photos/953723/pexels-photo-953723.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+  },
+  {
+    "id": "csm-28812",
+    "name": "김정국",
+    "age": 21,
+    "photo": "https://images.pexels.com/photos/881638/pexels-photo-881638.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+  }
+]
