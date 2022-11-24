@@ -6,9 +6,11 @@ const Books = lazy(() => import('pages/Books'));
 const Book = lazy(() => import('pages/Book'));
 const Consumers = lazy(() => import('pages/Consumers'));
 const Consumer = lazy(() => import('pages/Consumer'));
+const NotFound = lazy(() => import('pages/NotFound'));
 
 function RouteConfig() {
   const routeConfig = useRoutes([
+    { path: '*', element: <NotFound /> },
     { path: '/', element: <Home /> },
     {
       path: '/books',
