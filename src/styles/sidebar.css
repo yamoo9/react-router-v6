@@ -1,0 +1,49 @@
+.sidebar {
+  display: flex;
+}
+
+.sidebar h2 {
+  text-align: center;
+  width: 100%;
+}
+
+.sidebar nav {
+  width: 20%;
+  margin-right: 16px;
+  padding-right: 24px;
+  border-right: 0.5px solid var(--green-400);
+}
+
+.sidebar ul {
+  list-style: none;
+  padding-left: 12px;
+}
+
+.sidebar li {
+  margin: 20px 0;
+}
+
+
+.sidebar p {
+  font-size: 12px;
+}
+
+/* -------------------------------------------------------------------------- */
+
+.contents {
+  width: 60%;
+  margin: 20px auto;
+}
+
+.contents li {
+  margin: 50px 0;
+}
+
+.contents p {
+  font-size: 22px;
+  margin-bottom: 0;
+}
+
+.contents a {
+  font-size: 12px;
+}
