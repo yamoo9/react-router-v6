@@ -1,3 +1,11 @@
-# React Router v6
+# 프로그래밍 방식 내비게이션 (명령형)
 
-React Router v6 학습
+`useNavigate` 훅을 사용해 프로그래밍 방식으로 내비게이션 하는 방법을 학습합니다.
+
+- [ ] `useNavigate` 컴포넌트 사용법 가이드
+- [ ] 폼 전송 후, 명령형 프로그래밍 방식으로 내비게이션
+
+| URL 경로   | 컴포넌트  |
+| ---------- | --------- |
+| /          | Form      |
+| /submitted | Submitted |
