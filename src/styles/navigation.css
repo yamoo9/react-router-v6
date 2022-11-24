@@ -1,0 +1,9 @@
+.navigation ul {
+  display: flex;
+  list-style-type: none;
+  padding-left: 12px;
+}
+
+.navigation li {
+  margin-right: 16px;
+}
