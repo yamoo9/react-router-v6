@@ -37,7 +37,6 @@ function App() {
 
         <div className="border" />
 
-        {/* 라우트(경로) 구성 */}
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/books" element={<Books />} />
