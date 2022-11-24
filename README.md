@@ -9,7 +9,7 @@
 | -------------- | --------- |
 | /              | Home      |
 | /books         | Books     |
-| /books/:id     | Book      |
+| /books/:isbn   | Book      |
 | /consumers     | Consumers |
 | /consumers/:id | Consumer  |
 | \*             | NotFound  |
