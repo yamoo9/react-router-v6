@@ -6,7 +6,7 @@ export default function Book() {
   };
 
   return (
-    <nav>
+    <div className="book">
       <h3>{book.title}</h3>
       <figure>
         <img src={book.cover} alt="" height={300} />
@@ -15,6 +15,6 @@ export default function Book() {
           {book.isbn}
         </figcaption>
       </figure>
-    </nav>
+    </div>
   );
 }

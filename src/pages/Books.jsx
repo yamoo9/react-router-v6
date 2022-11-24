@@ -2,7 +2,7 @@ export default function Books() {
   const books = [];
 
   return (
-    <nav>
+    <div className="books">
       <h3>도서 조회</h3>
       <ul>
         {books.map(({ isbn, title }) => (
@@ -11,6 +11,6 @@ export default function Books() {
           </li>
         ))}
       </ul>
-    </nav>
+    </div>
   );
 }

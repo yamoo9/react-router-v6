@@ -1,14 +1,14 @@
-# React Router v6 펀드멘탈
+# URL 매개변수
 
-React Router를 설치하고, 클라이언트 측 라우팅 구성을 학습합니다.
+React Router가 제공하는 `useParmas` 훅을 사용해 URL 매개변수를 가져와 페이지를 렌더링합니다.
 
-- [ ] React Router 라이브러리 설치
-- [ ] React Router 라우터 구성
-- [ ] URL 경로 → 컴포넌트 매핑
-- [ ] 페이지 내비게이션 구성
+- [ ] 도서 목록 조회 페이지 구성
+- [ ] 국제도서표준번호(ISBN)로 접속 가능한 도서 개별 페이지 구성
+- [ ] 고유번호(ID)로 접속 가능한 고객 정보 페이지 구성
 
-| URL 경로  | 컴포넌트     |
-| --------- | ------------ |
-| /         | Home         |
-| /intro    | Introduction |
-| /contacts | Contacts     |
+| URL 경로      | 컴포넌트 |
+| ------------- | -------- |
+| /             | Home     |
+| /books        | Books    |
+| /book/:isbn   | Book     |
+| /consumer/:id | Consumer |
