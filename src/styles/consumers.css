@@ -1,0 +1,49 @@
+.consumers {
+  display: flex;
+}
+
+.consumers h2 {
+  text-align: center;
+  width: 100%;
+}
+
+.consumers nav {
+  width: 20%;
+  margin-right: 16px;
+  padding-right: 24px;
+  border-right: 0.5px solid var(--green-400);
+}
+
+.consumers ul {
+  list-style: none;
+  padding-left: 12px;
+}
+
+.consumers li {
+  margin: 20px 0;
+}
+
+
+.consumers p {
+  font-size: 12px;
+}
+
+/* -------------------------------------------------------------------------- */
+
+.consumer {
+  width: 60%;
+  margin: 20px auto;
+}
+
+.consumer li {
+  margin: 50px 0;
+}
+
+.consumer p {
+  font-size: 22px;
+  margin-bottom: 0;
+}
+
+.consumer a {
+  font-size: 12px;
+}
